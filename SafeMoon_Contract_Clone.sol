@@ -4,5 +4,6 @@ You need contract like SafeMoon with features:
    2% fee auto distribute to all holders
    I created a black hole so token will deflate itself in supply with every transaction
    50% Supply is burned at start.
+   Auto liquid to Pancake v2.
    
    Please contact me on telegram @TokoAgus
