@@ -16,6 +16,18 @@ BEP20-Standard.sol Standart BEP20 Smart Contract BSC (binance smart chain)
 
 if you need help deployment "standard BEP20 contract", I am ready to help you with a service fee of 0,09 BNB.
 
-<b>Contact me on:</b>
+<b>BEP20 token clone & deploy service for Single file & Multi-part contract.</b>
+
+We can clone & deploy all BEP20 token type for you! 
+
+And you can request change/modification to the token you want to clone.
+
+Fee service from 0.2 - 0.3 BNB for single file contracts
+
+Fee start 0.3 - 0.6 BNB for multi part contract.
+
+More info contact @agus_dev
+
+More information please contact me on:
 
 💬 Telegram <a href="https://t.me/tokoagus">@TokoAgus</a>
